@@ -4,7 +4,7 @@ This project is a **hardened user authentication system** built with Flask, focu
 
 ---
 
-## 🚀 Features
+## Features
 
 - User registration & login
 - Bcrypt password hashing (no plaintext storage)
