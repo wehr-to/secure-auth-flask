@@ -2,8 +2,6 @@
 
 This project is a **hardened user authentication system** built with Flask, focused on teaching and implementing real-world web security best practices. It was created as part of a personal app hardening initiative to go beyond “it works” and dive into **how to secure a web app properly**.
 
----
-
 ## Features
 
 - User registration & login
@@ -16,12 +14,8 @@ This project is a **hardened user authentication system** built with Flask, focu
 - Routes protected with `@login_required`
 - Realistic vulnerabilities (XSS, CSRF, IDOR) identified, injected, and mitigated
 
----
-
-## Project Structure
-
-
----
+## 🤝 Contributions
+Pull requests are welcome! If you’d like to add features, improve security hardening, optimize code, or extend functionality, feel free to open an issue or PR. This is a learning-focused lab project, and collaboration is encouraged.
 
 ## Getting Started
 
